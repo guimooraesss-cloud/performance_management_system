@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1767319139616,
+      "tag": "0000_icy_silver_fox",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1767319269578,
+      "tag": "0001_narrow_landau",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1767319369316,
+      "tag": "0002_powerful_pyro",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1767320305024,
+      "tag": "0003_married_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1767322238413,
+      "tag": "0004_skinny_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1767385789213,
+      "tag": "0005_overjoyed_randall_flagg",
+      "breakpoints": true
+    }
+  ]
+}
